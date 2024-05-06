@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "html-table-to-json": "^1.0.0",
+    "html-to-json-parser": "^2.0.1",
+    "node-html-parser": "^6.1.13",
+    "nodemon": "^3.1.0",
+    "playwright": "^1.43.1"
+  }
+}
